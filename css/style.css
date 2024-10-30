@@ -34,6 +34,7 @@ h1{
     padding-top: 5%;
     grid-area: title;
     text-align: center;
+    color: rgb(255, 211, 13);
     
 }
 h2{
